@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "781b13d9-68d5-45c2-acad-5b351ef1cc3d": {
+      "ProjectGuid": "781b13d9-68d5-45c2-acad-5b351ef1cc3d",
+      "DisplayName": "Books.Web.API",
+      "ColorIndex": 0
+    },
+    "36a5bcf7-223b-470f-9bf2-3ae11bc1351c": {
+      "ProjectGuid": "36a5bcf7-223b-470f-9bf2-3ae11bc1351c",
+      "DisplayName": "Books.API.Models",
+      "ColorIndex": 1
+    },
+    "f34ed975-4292-4c3e-b098-c98e91b9d9ee": {
+      "ProjectGuid": "f34ed975-4292-4c3e-b098-c98e91b9d9ee",
+      "DisplayName": "Books.Data",
+      "ColorIndex": 2
+    },
+    "7d9abfc5-905b-412a-8216-13ddcc67fc91": {
+      "ProjectGuid": "7d9abfc5-905b-412a-8216-13ddcc67fc91",
+      "DisplayName": "Books.Data.Entities",
+      "ColorIndex": 3
+    },
+    "1445f519-378e-4ef6-9e86-7cefc99cdb30": {
+      "ProjectGuid": "1445f519-378e-4ef6-9e86-7cefc99cdb30",
+      "DisplayName": "Books.Core",
+      "ColorIndex": 4
+    },
+    "1abaacfa-20fc-42e2-9a05-9f00fed07f61": {
+      "ProjectGuid": "1abaacfa-20fc-42e2-9a05-9f00fed07f61",
+      "DisplayName": "Books.Common",
+      "ColorIndex": 5
+    },
+    "6dd6c548-450f-4bf8-b789-e516b4870a85": {
+      "ProjectGuid": "6dd6c548-450f-4bf8-b789-e516b4870a85",
+      "DisplayName": "Books.Web.UI",
+      "ColorIndex": 6
+    },
+    "5a1a30ed-8503-41b8-b691-6e804d00c321": {
+      "ProjectGuid": "5a1a30ed-8503-41b8-b691-6e804d00c321",
+      "DisplayName": "Books.Web.API.Test",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

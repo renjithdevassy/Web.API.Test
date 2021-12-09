@@ -1,0 +1,395 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Web.API\\Books.Web.API.csproj": {}
+  },
+  "projects": {
+    "F:\\working\\Rapidcompany\\Books.Web.API\\Books.API.Models\\Books.API.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.API.Models\\Books.API.Models.csproj",
+        "projectName": "Books.API.Models",
+        "projectPath": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.API.Models\\Books.API.Models.csproj",
+        "packagesPath": "C:\\Users\\Renjith\\.nuget\\packages\\",
+        "outputPath": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.API.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Renjith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Common\\Books.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Common\\Books.Common.csproj",
+        "projectName": "Books.Common",
+        "projectPath": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Common\\Books.Common.csproj",
+        "packagesPath": "C:\\Users\\Renjith\\.nuget\\packages\\",
+        "outputPath": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Renjith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.14.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Core\\Books.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Core\\Books.Core.csproj",
+        "projectName": "Books.Core",
+        "projectPath": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Core\\Books.Core.csproj",
+        "packagesPath": "C:\\Users\\Renjith\\.nuget\\packages\\",
+        "outputPath": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Renjith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\working\\Rapidcompany\\Books.Web.API\\Books.API.Models\\Books.API.Models.csproj": {
+                "projectPath": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.API.Models\\Books.API.Models.csproj"
+              },
+              "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Data.Entities\\Books.Data.Entities.csproj": {
+                "projectPath": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Data.Entities\\Books.Data.Entities.csproj"
+              },
+              "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Data\\Books.Data.csproj": {
+                "projectPath": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Data\\Books.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Data.Entities\\Books.Data.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Data.Entities\\Books.Data.Entities.csproj",
+        "projectName": "Books.Data.Entities",
+        "projectPath": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Data.Entities\\Books.Data.Entities.csproj",
+        "packagesPath": "C:\\Users\\Renjith\\.nuget\\packages\\",
+        "outputPath": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Data.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Renjith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Common\\Books.Common.csproj": {
+                "projectPath": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Common\\Books.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.14.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Data\\Books.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Data\\Books.Data.csproj",
+        "projectName": "Books.Data",
+        "projectPath": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Data\\Books.Data.csproj",
+        "packagesPath": "C:\\Users\\Renjith\\.nuget\\packages\\",
+        "outputPath": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Renjith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\working\\Rapidcompany\\Books.Web.API\\Books.API.Models\\Books.API.Models.csproj": {
+                "projectPath": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.API.Models\\Books.API.Models.csproj"
+              },
+              "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Data.Entities\\Books.Data.Entities.csproj": {
+                "projectPath": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Data.Entities\\Books.Data.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Web.API\\Books.Web.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Web.API\\Books.Web.API.csproj",
+        "projectName": "Books.Web.API",
+        "projectPath": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Web.API\\Books.Web.API.csproj",
+        "packagesPath": "C:\\Users\\Renjith\\.nuget\\packages\\",
+        "outputPath": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Web.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Renjith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\working\\Rapidcompany\\Books.Web.API\\Books.API.Models\\Books.API.Models.csproj": {
+                "projectPath": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.API.Models\\Books.API.Models.csproj"
+              },
+              "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Core\\Books.Core.csproj": {
+                "projectPath": "F:\\working\\Rapidcompany\\Books.Web.API\\Books.Core\\Books.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+F:\working\Rapidcompany\Books.Web.API\Books.API.Models\bin\Debug\net6.0\Books.API.Models.deps.json
+F:\working\Rapidcompany\Books.Web.API\Books.API.Models\bin\Debug\net6.0\Books.API.Models.dll
+F:\working\Rapidcompany\Books.Web.API\Books.API.Models\bin\Debug\net6.0\ref\Books.API.Models.dll
+F:\working\Rapidcompany\Books.Web.API\Books.API.Models\bin\Debug\net6.0\Books.API.Models.pdb
+F:\working\Rapidcompany\Books.Web.API\Books.API.Models\obj\Debug\net6.0\Books.API.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\working\Rapidcompany\Books.Web.API\Books.API.Models\obj\Debug\net6.0\Books.API.Models.AssemblyInfoInputs.cache
+F:\working\Rapidcompany\Books.Web.API\Books.API.Models\obj\Debug\net6.0\Books.API.Models.AssemblyInfo.cs
+F:\working\Rapidcompany\Books.Web.API\Books.API.Models\obj\Debug\net6.0\Books.API.Models.csproj.CoreCompileInputs.cache
+F:\working\Rapidcompany\Books.Web.API\Books.API.Models\obj\Debug\net6.0\Books.API.Models.dll
+F:\working\Rapidcompany\Books.Web.API\Books.API.Models\obj\Debug\net6.0\ref\Books.API.Models.dll
+F:\working\Rapidcompany\Books.Web.API\Books.API.Models\obj\Debug\net6.0\Books.API.Models.pdb

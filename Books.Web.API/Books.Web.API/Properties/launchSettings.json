@@ -1,0 +1,36 @@
+﻿{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:49377",
+      "sslPort": 44374
+    }
+  },
+  "profiles": {
+    "Books.Web.API": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "https://localhost:7224;http://localhost:5224",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DB_NAME": "BooksDB",
+        "DB_CONNECTION": "mongodb+srv://books:books1!@cluster0.78tvz.mongodb.net/test/"
+      }
+    },
+    "IIS Express": {
+      
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DB_NAME": "BooksDB",
+        "DB_CONNECTION": "mongodb+srv://books:books1!@cluster0.78tvz.mongodb.net/test/"
+      }
+    }
+  }
+}

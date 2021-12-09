@@ -1,0 +1,12 @@
+F:\working\Rapidcompany\Books.Web.API\Books.Common\obj\Debug\net6.0\Books.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\working\Rapidcompany\Books.Web.API\Books.Common\obj\Debug\net6.0\Books.Common.AssemblyInfoInputs.cache
+F:\working\Rapidcompany\Books.Web.API\Books.Common\obj\Debug\net6.0\Books.Common.AssemblyInfo.cs
+F:\working\Rapidcompany\Books.Web.API\Books.Common\obj\Debug\net6.0\Books.Common.csproj.CoreCompileInputs.cache
+F:\working\Rapidcompany\Books.Web.API\Books.Common\bin\Debug\net6.0\Books.Common.deps.json
+F:\working\Rapidcompany\Books.Web.API\Books.Common\bin\Debug\net6.0\Books.Common.dll
+F:\working\Rapidcompany\Books.Web.API\Books.Common\bin\Debug\net6.0\ref\Books.Common.dll
+F:\working\Rapidcompany\Books.Web.API\Books.Common\bin\Debug\net6.0\Books.Common.pdb
+F:\working\Rapidcompany\Books.Web.API\Books.Common\obj\Debug\net6.0\Books.Common.dll
+F:\working\Rapidcompany\Books.Web.API\Books.Common\obj\Debug\net6.0\ref\Books.Common.dll
+F:\working\Rapidcompany\Books.Web.API\Books.Common\obj\Debug\net6.0\Books.Common.pdb
+F:\working\Rapidcompany\Books.Web.API\Books.Common\obj\Debug\net6.0\Books.Common.csproj.AssemblyReference.cache

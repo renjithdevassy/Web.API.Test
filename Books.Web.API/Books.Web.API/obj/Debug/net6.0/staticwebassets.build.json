@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3bk2rwYdGUbJAXoj4zgHU5uUicFrTXmSDfQcFN/ddqs=",
+  "Source": "Books.Web.API",
+  "BasePath": "_content/Books.Web.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

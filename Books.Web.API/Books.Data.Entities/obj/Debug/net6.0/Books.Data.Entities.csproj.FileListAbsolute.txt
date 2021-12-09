@@ -1,0 +1,15 @@
+F:\working\Rapidcompany\Books.Web.API\Books.Data.Entities\obj\Debug\net6.0\Books.Data.Entities.csproj.AssemblyReference.cache
+F:\working\Rapidcompany\Books.Web.API\Books.Data.Entities\obj\Debug\net6.0\Books.Data.Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\working\Rapidcompany\Books.Web.API\Books.Data.Entities\obj\Debug\net6.0\Books.Data.Entities.AssemblyInfoInputs.cache
+F:\working\Rapidcompany\Books.Web.API\Books.Data.Entities\obj\Debug\net6.0\Books.Data.Entities.AssemblyInfo.cs
+F:\working\Rapidcompany\Books.Web.API\Books.Data.Entities\obj\Debug\net6.0\Books.Data.Entities.csproj.CoreCompileInputs.cache
+F:\working\Rapidcompany\Books.Web.API\Books.Data.Entities\bin\Debug\net6.0\Books.Data.Entities.deps.json
+F:\working\Rapidcompany\Books.Web.API\Books.Data.Entities\bin\Debug\net6.0\Books.Data.Entities.dll
+F:\working\Rapidcompany\Books.Web.API\Books.Data.Entities\bin\Debug\net6.0\ref\Books.Data.Entities.dll
+F:\working\Rapidcompany\Books.Web.API\Books.Data.Entities\bin\Debug\net6.0\Books.Data.Entities.pdb
+F:\working\Rapidcompany\Books.Web.API\Books.Data.Entities\bin\Debug\net6.0\Books.Common.dll
+F:\working\Rapidcompany\Books.Web.API\Books.Data.Entities\bin\Debug\net6.0\Books.Common.pdb
+F:\working\Rapidcompany\Books.Web.API\Books.Data.Entities\obj\Debug\net6.0\Books.Data.Entities.csproj.CopyComplete
+F:\working\Rapidcompany\Books.Web.API\Books.Data.Entities\obj\Debug\net6.0\Books.Data.Entities.dll
+F:\working\Rapidcompany\Books.Web.API\Books.Data.Entities\obj\Debug\net6.0\ref\Books.Data.Entities.dll
+F:\working\Rapidcompany\Books.Web.API\Books.Data.Entities\obj\Debug\net6.0\Books.Data.Entities.pdb
